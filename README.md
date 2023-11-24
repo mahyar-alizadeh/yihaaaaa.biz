@@ -10,7 +10,7 @@ Auftrag Planungsarbeiten Marketing/Verkauf
 | **SW2**             | 172.16.1.99            |                           |
 | **AP**              | 172.16.1.100           |                           |
 | **PR**              | 172.16.1.101           |                           |
-| **2 Reserve**       | 172.16.1.102 - 172.16.1.103 |                         |
+| **2 Reserve netzwerkgerät**       | 172.16.1.102 - 172.16.1.103 |                         |
 |                     |                        |                           |
 | **Mitarbeiter + Handy** |                   | 172.16.1.104 - 172.16.1.121 |
 | **5 Reserve Host**  |                        | 172.16.1.122 - 172.16.1.126 |
